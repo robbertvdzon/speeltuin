@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
 class MyController {
     @RequestMapping("/")
     fun helloWorld(): String {
-        return "Hello World from Spring Boot"
+        return "Hello World from Spring Boot!"
     }
 
 
