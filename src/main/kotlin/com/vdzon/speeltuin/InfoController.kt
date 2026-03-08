@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.*
 class InfoController {
 
     @GetMapping
-    fun getInfo(): String = "v1.01"
+    fun getInfo(): String = "v1.02"
 
 }
