@@ -9,3 +9,4 @@ class SpeeltuinApplication
 fun main(args: Array<String>) {
     runApplication<SpeeltuinApplication>(*args)
 }
+
